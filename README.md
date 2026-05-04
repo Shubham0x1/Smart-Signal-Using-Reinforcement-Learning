@@ -5,9 +5,9 @@ This project presents a robust framework for optimizing traffic flow at complex 
 ---
 ## 🌐 Live Demo
 🔗 [Traffic Light Optimization Using Reinforcement Learning]()
-Deep Q-Learning Agent
 
-Framework: Q-Learning enhanced with a deep neural network for function approximation.
+## Deep Q-Learning Agent
+### Framework: Q-Learning enhanced with a deep neural network for function approximation.
 Context: Autonomous traffic signal control at a single urban intersection.
 Environment: Simulates a 4-way intersection with 4 incoming and outgoing lanes per arm, each stretching 750 meters. Traffic lights are configured so that each arm supports dedicated movement lanes (left, straight, right).
 Traffic Generation: Each training episode spawns 1000 vehicles following a randomized dynamic pattern, simulating realistic and varied traffic conditions.
