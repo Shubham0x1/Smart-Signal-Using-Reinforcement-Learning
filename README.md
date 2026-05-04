@@ -31,13 +31,12 @@ This project presents a robust framework for optimizing traffic flow at complex 
 #### matplotlib 3.6.0
 #### numpy 1.19.5
 
-Running the Algorithm
+### Running the Algorithm
+### Clone or download this repository.
+### Open a terminal and navigate to the root project folder.
+### Execute python training_main.py to begin the training process.
 
-Clone or download this repository.
-Open a terminal and navigate to the root project folder.
-Execute python training_main.py to begin the training process.
-
-Code Structure
+### Code Structure
 The codebase is organized into distinct classes, each responsible for a specific aspect of the training pipeline:
 
 Model: Defines and initializes the deep neural network architecture used by the agent.
