@@ -20,7 +20,7 @@ This project presents a robust framework for optimizing traffic flow at complex 
 ---
 # Getting Started
 
-### Follow the steps below to set up and run the project on your local machine:
+## Follow the steps below to set up and run the project on your local machine:
 ### Download and install Anaconda from the [official website](https://www.anaconda.com/download?utm_source=chatgpt.com).
 ### Download and install SUMO from the [official website](https://sumo.dlr.de/docs/Downloads.php?utm_source=chatgpt.com).
 ### Ensure your environment satisfies the following software version requirements:
@@ -31,20 +31,19 @@ This project presents a robust framework for optimizing traffic flow at complex 
 #### matplotlib 3.6.0
 #### numpy 1.19.5
 
-### Running the Algorithm
-### Clone or download this repository.
-### Open a terminal and navigate to the root project folder.
-### Execute python training_main.py to begin the training process.
+## Running the Algorithm
+#### Clone or download this repository.
+#### Open a terminal and navigate to the root project folder.
+#### Execute python training_main.py to begin the training process.
 
-### Code Structure
-The codebase is organized into distinct classes, each responsible for a specific aspect of the training pipeline:
-
-Model: Defines and initializes the deep neural network architecture used by the agent.
-Memory: Implements experience replay, storing past transitions to improve training stability and sample efficiency.
-Simulation: Manages the simulation lifecycle, including interaction with the SUMO traffic simulator.
-TrafficGenerator: Handles the procedural generation of vehicle routes for each training episode.
-Visualization: Provides utility functions for rendering training metrics and performance plots.
-Utils: Contains helper functions for directory management, file I/O, and configuration parsing.
+## Code Structure
+### The codebase is organized into distinct classes, each responsible for a specific aspect of the training pipeline:
+### Model: Defines and initializes the deep neural network architecture used by the agent.
+### Memory: Implements experience replay, storing past transitions to improve training stability and sample efficiency.
+### Simulation: Manages the simulation lifecycle, including interaction with the SUMO traffic simulator.
+### TrafficGenerator: Handles the procedural generation of vehicle routes for each training episode.
+### Visualization: Provides utility functions for rendering training metrics and performance plots.
+### Utils: Contains helper functions for directory management, file I/O, and configuration parsing.
 
 Settings Explained
 All training and testing hyperparameters are stored in training_settings.ini and testing_settings.ini. These configuration files control key parameters such as episode duration, traffic volume, neural network architecture (layer sizes, learning rate), and simulator-specific settings.
