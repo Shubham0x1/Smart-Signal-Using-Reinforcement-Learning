@@ -1,5 +1,7 @@
 # Smart Signal Using Reinforcement Learning
+
 This project presents a robust framework for optimizing traffic flow at complex intersections using a Deep Q-Learning Reinforcement Learning agent. By intelligently determining optimal traffic light phases, the agent continuously learns to maximize intersection throughput and minimize vehicle waiting times.
+
 Deep Q-Learning Agent
 
 Framework: Q-Learning enhanced with a deep neural network for function approximation.
