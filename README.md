@@ -45,23 +45,19 @@ This project presents a robust framework for optimizing traffic flow at complex 
 ### Visualization: Provides utility functions for rendering training metrics and performance plots.
 ### Utils: Contains helper functions for directory management, file I/O, and configuration parsing.
 
-Settings Explained
-All training and testing hyperparameters are stored in training_settings.ini and testing_settings.ini. These configuration files control key parameters such as episode duration, traffic volume, neural network architecture (layer sizes, learning rate), and simulator-specific settings.
-Contributors
-This project was developed by:
+## Settings Explained
+### All training and testing hyperparameters are stored in training_settings.ini and testing_settings.ini. 
+### These configuration files control key parameters such as episode duration, traffic volume, neural network architecture (layer sizes, learning rate), and simulator-specific settings.
 
-Shubham Gusain
-Harsh Gupta
-Priyansh Kisan
+---
+# Contributors
+## This project was developed by:
+#### Shubham Gusain
+#### Harsh Gupta
+#### Priyansh Kisan
 
-For questions, suggestions, or bug reports, please open an issue on the repository's issues page.
-References
+### For questions, suggestions, or bug reports, please open an issue on the repository's issues page.
 
-Mnih, V., et al. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529–533. https://doi.org/10.1038/nature14236
-Liu, X.-Y., Zhu, M., Borst, S., & Walid, A. (2018). Deep Reinforcement Learning for Traffic Light Control in Intelligent Transportation Systems. arXiv preprint arXiv:1803.11115. https://arxiv.org/abs/1803.11115
-Vidali, A., Crociani, L., Vizzari, G., & Bandini, S. (2019). A Deep Reinforcement Learning Approach to Adaptive Traffic Lights Management. Proceedings of the WOA Workshop, 2404, 42–56.
-Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press. http://incompleteideas.net/book/the-book-2nd.html
-Lopez, P. A., et al. (2018). Microscopic Traffic Simulation using SUMO. IEEE Intelligent Transportation Systems Conference (ITSC). https://doi.org/10.1109/ITSC.2018.8569938
-van Hasselt, H., Guez, A., & Silver, D. (2016). Deep Reinforcement Learning with Double Q-learning. AAAI Conference on Artificial Intelligence. https://arxiv.org/abs/1509.06461
-Wei, H., et al. (2019). A Survey on Traffic Signal Control Methods. arXiv preprint arXiv:1904.08117. https://arxiv.org/abs/1904.08117
-TensorFlow Documentation. tf.keras — Building and Training Models. https://www.tensorflow.org/api_docs/python/tf/keras
+---
+# References
+
