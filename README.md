@@ -19,8 +19,8 @@ This project presents a robust framework for optimizing traffic flow at complex 
 
 ---
 # Getting Started
-Follow the steps below to set up and run the project on your local machine:
 
+Follow the steps below to set up and run the project on your local machine:
 Download and install Anaconda from the official website.
 Download and install SUMO from the official website.
 
