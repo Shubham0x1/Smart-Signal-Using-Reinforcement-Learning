@@ -20,9 +20,9 @@ This project presents a robust framework for optimizing traffic flow at complex 
 ---
 # Getting Started
 
-Follow the steps below to set up and run the project on your local machine:
-Download and install Anaconda from the official website.
-Download and install SUMO from the official website.
+### Follow the steps below to set up and run the project on your local machine:
+### Download and install Anaconda from the [official website](https://www.anaconda.com/download?utm_source=chatgpt.com).
+### Download and install SUMO from the [official website](https://sumo.dlr.de/docs/Downloads.php?utm_source=chatgpt.com).
 
 Ensure your environment satisfies the following software version requirements:
 
