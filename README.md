@@ -32,9 +32,9 @@ This project presents a robust framework for optimizing traffic flow at complex 
 #### numpy 1.19.5
 
 ## Running the Algorithm
-#### Clone or download this repository.
-#### Open a terminal and navigate to the root project folder.
-#### Execute python training_main.py to begin the training process.
+### Clone or download this repository.
+### Open a terminal and navigate to the root project folder.
+### Execute python training_main.py to begin the training process.
 
 ## Code Structure
 ### The codebase is organized into distinct classes, each responsible for a specific aspect of the training pipeline:
@@ -60,4 +60,14 @@ This project presents a robust framework for optimizing traffic flow at complex 
 
 ---
 # References
-
+### 1. V. Mnih et al., "Human-level control through deep reinforcement learning," Nature, vol. 518, pp. 529-533, 2015. 
+### 2. L. El-Tantawy, B. Abdulhai, and H. Abdelgawad, "Multiagent Reinforcement Learning for Integrated Network of Adaptive Traffic Signal Controllers (MARLIN-ATSC)," IEEE Transactions on Intelligent Transportation Systems, vol. 14, no. 3, pp. 11401150, 2013. 
+### 3. M. Wiering, "Multi-Agent Reinforcement Learning for Traffic Light Control," Proceedings of the Seventeenth International Conference on Machine Learning (ICML), 2000. 
+### 4. P. Alvarez Lopez et al., "Microscopic Traffic Simulation using SUMO," Proceedings of the 21st International Conference on Intelligent Transportation Systems (ITSC), IEEE, 2018.
+### 5. A. Casas, "Deep Reinforcement Learning for Traffic Signal Control," Stanford University CS229 Project Report, 2017. 
+### 6. S. El-Tantawy and B. Abdulhai, "Towards Multi-Agent Reinforcement Learning for Integrated Network of Adaptive Traffic Signal Controllers," Proceedings of the 13th International IEEE Conference on Intelligent Transportation Systems, 2010. 
+### 7. SUMO Documentation — Simulation of Urban MObility, https://sumo.dlr.de/docs/, accessed April 2026. 
+### 8. OpenAI Gym Documentation, https://gymnasium.farama.org/, accessed April 2026. 
+### 9. TensorFlow Documentation, https://www.tensorflow.org/api_docs, accessed April 2026.
+### 10. PyTorch Documentation, https://pytorch.org/docs/, accessed April 2026. 
+### 11. R. Sutton and A. Barto, Reinforcement Learning: An Introduction, 2nd ed. Cambridge, MA: MIT Press, 2018. 
